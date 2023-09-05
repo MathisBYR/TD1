@@ -1,0 +1,12 @@
+.badge{
+
+  display: flex;
+  width: center;
+  align-items: center;
+  width: 1rem;
+  aspect-ratio: 1;
+ font-family: sans-serif;
+ color: white;
+  border-radius: 100%;
+  background-color: blue;
+}
